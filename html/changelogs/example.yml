@@ -18,11 +18,10 @@
 #   imagedel
 #   spellcheck (typo fixes)
 #   experiment
-#	tgs (TG-station ports, or just the (old)TGstation icon)
 #################################
 
 # Your name. 
-author: ""
+author: "
 
 # Optional: Remove this file after generating master changelog.  Useful for PR changelogs that won't get used again.
 delete-after: True
