@@ -88,7 +88,7 @@ Admin:
 	set name = "Changelog"
 	set category = "OOC"
 	getFiles(
-		'html/88x31.png'
+		'html/88x31.png',
 		'html/tg-ports.png',
 		'html/bug-minus.png',
 		'html/cross-circle.png',
